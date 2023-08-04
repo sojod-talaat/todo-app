@@ -52,7 +52,6 @@ class _HomePageState extends State<HomePage> {
                         return Form(
                             key: formKey,
                             child: Container(
-                              color: Colors.green[100],
                               padding: const EdgeInsets.all(20),
                               child: Column(
                                 mainAxisSize: MainAxisSize.min,
